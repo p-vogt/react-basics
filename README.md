@@ -1,4 +1,4 @@
-# React.js
+# React Basics
 
 - [Grundlagen](#grundlagen)
   - [Single Page Applications](#single-page-applications)
